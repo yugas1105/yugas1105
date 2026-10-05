@@ -1,214 +1,116 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-# 👋 Hi, I'm Swati Sonawane
+# ✨ Hey, I'm Swati Sonawane
 
-### 💻 Full-Stack Developer | React | Node.js | MongoDB | AI/ML
+### `building ideas → writing code → learning something new`
 
-<p>
-  <a href="https://github.com/yugas1105">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/swati-sonawane-11nov2005">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:swatikamlakar2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+MongoDB;AI%2FML+Explorer+%F0%9F%A4%96;Always+Learning+%E2%9C%A8" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=yugas1105&label=Profile%20Views&color=1976D2&style=flat" alt="Profile Views"/>
-</p>
+<br/>
+
+<a href="https://github.com/yugas1105">
+<img src="https://img.shields.io/badge/GitHub-yugas1105-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://linkedin.com/in/swati-sonawane-11nov2005">
+<img src="https://img.shields.io/badge/LinkedIn-Swati%20Sonawane-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+
+## ⚡ Tech I Speak
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c,html,css" />
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express" />
+
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,git,github,linux,vscode,postman,docker" />
+
+</div>
+
+---
+
+## 🌱 Currently Growing
 
 ```text
-🎓 Computer Science Engineering Student
-💻 Full-Stack Developer
-⚛️ React + Node.js Developer
-🗄️ MongoDB & PostgreSQL Enthusiast
-🤖 Exploring AI / Machine Learning
-🚀 Building real-world applications
-📚 Improving DSA & problem-solving
-🎯 Aspiring Software Engineer
+DSA                    ███████░░░  70%
+Full-Stack Development ████████░░  80%
+Java                   ██████░░░░  60%
+AI / ML                █████░░░░░  50%
+System Design          ████░░░░░░  40%
+Cloud & DevOps         ███░░░░░░░  30%
 ```
 
-I enjoy building practical applications that solve real-world problems and continuously improving my development, problem-solving, and software engineering skills.
+> Progress doesn't need to be perfect.  
+> It just needs to keep moving. 🌱
 
 ---
 
-## 🛠️ Tech Stack
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,c,html,css" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,materialui,vite" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🍔 Food Ordering Web Application
-
-A full-stack food ordering platform with role-based access, menu management, cart functionality, order management and payment integration.
-
-**Tech:** React • Node.js • Express • MongoDB • Redux • Material UI • Razorpay
-
-**Key Features**
-- 👤 User & Admin roles
-- 🍕 Category-based food menus
-- 🛒 Shopping cart
-- 📦 Order management
-- 💳 Payment integration
-- 📊 Admin dashboard
-- 🔐 Authentication & authorization
-
----
-
-### 🌾 Farmer Management System
-
-A REST API-based management system designed to manage farmers, fields, materials, expenses, payments and reports.
-
-**Tech:** Node.js • Express.js • MongoDB • Mongoose • Swagger
-
-**Key Features**
-- 👨‍🌾 Farmer management
-- 🌱 Field management
-- 📦 Material management
-- 💰 Expense & payment management
-- 📊 Dashboard statistics
-- 📑 Reports & farmer ledger
-- 📚 Swagger API documentation
-- 🔐 Authentication
-
----
-
-### 🤖 AI Crop Disease Prediction & Management System
-
-An AI/ML-based project designed to assist with crop disease identification and provide management recommendations.
-
-**Tech:** Python • Machine Learning • AI
-
-**Focus**
-- 🌱 Crop disease prediction
-- 🔬 Machine learning
-- 📊 Data analysis
-- 💡 Disease management recommendations
-
----
-
-### 💼 Personal Portfolio
-
-A responsive developer portfolio showcasing my skills, projects, experience and achievements.
-
-**Tech:** React • Material UI • JavaScript • CSS
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yugas1105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yugas1105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugas1105&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugas1105&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yugas1105&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🐍 Watch My Contributions Travel
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yugas1105&theme=tokyonight&hide_border=true" />
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yugas1105&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🌱 Currently Learning
+## 🎯 2026 → 2027
 
 ```text
-▸ Data Structures & Algorithms
-▸ Java & Problem Solving
-▸ System Design
-▸ AI / Machine Learning
-▸ PostgreSQL
-▸ Docker & Cloud
-▸ REST API Development
-▸ Software Engineering Best Practices
+☑ Become a stronger developer
+☑ Improve problem-solving
+☐ Master DSA
+☐ Build production-ready applications
+☐ Explore AI/ML deeply
+☐ Learn system design
+☐ Contribute to open source
+☐ Become a better software engineer
 ```
 
 ---
 
-## 🎯 My Current Focus
+## 💭 A Thought I Like
 
-```text
-                    ┌─────────────────────┐
-                    │   Software Engineer │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-             ▼                 ▼                 ▼
-           DSA            Full Stack          AI / ML
-             │                 │                 │
-             ▼                 ▼                 ▼
-        Problem Solving   Real Projects     Intelligent Apps
-```
+<div align="center">
 
----
+### *"Don't compare your Chapter 1 with someone else's Chapter 20."*
 
-## 💡 What I Like Building
+🌱 **Keep learning. Keep building. Keep going.**
 
-- 🌐 Full-stack web applications
-- 🔌 REST APIs
-- 🤖 AI-powered applications
-- 📊 Management & dashboard systems
-- 🗄️ Database-driven applications
-- 🚀 Projects that solve real-world problems
+</div>
 
 ---
 
@@ -217,16 +119,16 @@ A responsive developer portfolio showcasing my skills, projects, experience and 
 <div align="center">
 
 <a href="https://linkedin.com/in/swati-sonawane-11nov2005">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:swatikamlakar2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/yugas1105">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=yugas1105&label=Profile%20Visitors&color=58A6FF&style=flat-square"/>
 
 </div>
 
@@ -234,8 +136,8 @@ A responsive developer portfolio showcasing my skills, projects, experience and 
 
 <div align="center">
 
-### ✨ "Build. Learn. Improve. Repeat." ✨
+### ✨ Thanks for stopping by ✨
 
-⭐ If you find my projects interesting, consider giving them a star!
+`code • learn • grow • repeat`
 
 </div>
