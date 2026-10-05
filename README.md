@@ -7,17 +7,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+MongoDB;AI%2FML+Explorer+%F0%9F%A4%96;Always+Learning+%E2%9C%A8" />
 
 <br/>
+<div align="center">
 
 <a href="https://github.com/yugas1105">
-<img src="https://img.shields.io/badge/GitHub-yugas1105-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-@yugas1105-0D1117?style=flat-square&logo=github&logoColor=58A6FF&labelColor=0D1117" />
 </a>
+
 <a href="https://linkedin.com/in/swati-sonawane-11nov2005">
-<img src="https://img.shields.io/badge/LinkedIn-Swati%20Sonawane-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Swati%20Sonawane-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF&labelColor=0D1117" />
 </a>
 
 </div>
-
----
+</div>
 
 
 ## ⚡ Tech I Speak
